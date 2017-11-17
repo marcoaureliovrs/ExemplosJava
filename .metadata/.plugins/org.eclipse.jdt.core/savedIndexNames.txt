@@ -1,0 +1,5 @@
+INDEX VERSION 1.130+/Volumes/HDHIBRIDO/Projetos/Java/ExemplosJava/.metadata/.plugins/org.eclipse.jdt.core
+1960605496.index
+1935053743.index
+3261379072.index
+1304798869.index
